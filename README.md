@@ -12,7 +12,8 @@ This repository contains the data analysis and Power BI dashboard for a healthca
 
 
 ## Preview
-![imaa](https://github.com/haroon-mirza/diabetes-pregnancy-dashboard/assets/110737193/a9d66580-0d75-4294-a416-909163609adc)
+![imaaaa](https://github.com/haroon-mirza/diabetes-pregnancy-dashboard/assets/110737193/95a28a18-d8d7-467f-8fe8-5c8f54ee2045)
+
 
 
 ## Project Overview
