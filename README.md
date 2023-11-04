@@ -10,6 +10,11 @@ This repository contains the data analysis and Power BI dashboard for a healthca
 - [Power BI Dashboard](#power-bi-dashboard)
 - [Contact](#contact)
 
+
+## Preview
+![imaa](https://github.com/haroon-mirza/diabetes-pregnancy-dashboard/assets/110737193/a9d66580-0d75-4294-a416-909163609adc)
+
+
 ## Project Overview
 This project aims to uncover insights into diabetes by analyzing various health metrics, with a focus on pregnancy-related factors and the diabetes pedigree function. The insights derived from this analysis inform the creation of a Power BI dashboard that aids healthcare professionals and analysts in understanding the data's implications.
 
